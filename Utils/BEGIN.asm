@@ -1,5 +1,0 @@
-LOADER	XOR	A
-	LD	(#5C48),A
-	LD	(#5C6B),A
-	LD	(#5C80),A
-
