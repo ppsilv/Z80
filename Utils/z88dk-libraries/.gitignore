@@ -1,0 +1,15 @@
+# Linker output
+*.map
+*.def
+
+# Executables
+*.bin
+*.exe
+*.out
+*.hex
+*.ihx
+
+# Debug files
+*.err
+*.lis
+
